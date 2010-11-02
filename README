@@ -1,0 +1,8 @@
+This extends hamcrest matchers to provide useful matchers for spring mvc validator
+
+http://code.google.com/p/hamcrest/wiki/MatcherLibraries
+
+
+TODO create maven repo in github to host it
+
+http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/
